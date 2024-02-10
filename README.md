@@ -1,0 +1,3 @@
+- link van github ga ik via teams sturen
+- ook filmpje over de werking van de app
+- python en streamlit zijn nodig !!! 
